@@ -1,0 +1,9 @@
+# dbt / BigQuery credentials
+**/*.json
+!.vscode/*.json
+.env
+.venv
+venv/
+target/
+dbt_packages/
+logs/
